@@ -1,35 +1,34 @@
-# Project Title
-Analysis to figure out how we can predict individuals who are most likely to have or use a bank account
+# Financial Inclusion in Kenya, Rwanda, Uganda and Tanzania.
 
-Description
+#Description
 Financial inclusion is a major hinderance to economic and human development in Africa. About 9.1 million(13.9%) people in Kenya, Rwanda, Tanzania and Uganda. Despite mobile money and fintech solutions in Africa, Banks play a pivotal role in providing access to financial services thus a long-term contributor to financial growth. This analysis focuses on providing insight on individuals who have and are most likely to use a bank account, the differentiating factors,  and the state of financial inclusion in Kenya, Uganda, Tanzania and Rwanda.
 
-Badges
+#Badges
 
-Visuals
+#Visuals
 Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
 
-Usage
+#Usage
 Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
 
-Support
+#Support
 viviannjau3985@gmail.com
 
-Roadmap
+#Roadmap
 A predictive model that would help banks target individuals that have a higher likelihood to open and use a bank account
 Tableau Dahboard Giving a summary of the analysis
 
 
-Contributing
+#Contributing
 Any relevant contributions towards the state of financial inclusion and how it can be improved are welcome. Contributions should focus solely on Kenya, Rwanda, Uganda and Tanzania.
 
 You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
 
-Authors and acknowledgment
+#Authors and acknowledgment
 Vivian Wanjiru Njau.
 
-License
+#License
 For open source projects, say how it is licensed.
 
-Project status
+#Project status
 Complete!
