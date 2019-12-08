@@ -6,9 +6,6 @@ Financial inclusion is a major hinderance to economic and human development in A
 
 ![image](https://user-images.githubusercontent.com/56575615/70389888-7b447080-19d6-11ea-9186-811e6ce3e592.png)
 
-#Usage
-
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
 
 #Support
 
@@ -23,8 +20,6 @@ Tableau Dahboard Giving a summary of the analysis
 #Contributing
 
 Any relevant contributions towards the state of financial inclusion and how it can be improved are welcome. Contributions should focus solely on Kenya, Rwanda, Uganda and Tanzania.
-
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
 
 #Authors and acknowledgment
 
