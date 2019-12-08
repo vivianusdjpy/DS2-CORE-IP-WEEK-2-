@@ -1,6 +1,7 @@
 # Financial Inclusion in Kenya, Rwanda, Uganda and Tanzania.
 
 #Description
+
 Financial inclusion is a major hinderance to economic and human development in Africa. About 9.1 million(13.9%) people in Kenya, Rwanda, Tanzania and Uganda. Despite mobile money and fintech solutions in Africa, Banks play a pivotal role in providing access to financial services thus a long-term contributor to financial growth. This analysis focuses on providing insight on individuals who have and are most likely to use a bank account, the differentiating factors,  and the state of financial inclusion in Kenya, Uganda, Tanzania and Rwanda.
 
 #Badges
