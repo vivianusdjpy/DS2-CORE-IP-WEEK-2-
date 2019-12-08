@@ -5,7 +5,7 @@
 Financial inclusion is a major hinderance to economic and human development in Africa. About 9.1 million(13.9%) people in Kenya, Rwanda, Tanzania and Uganda have access to or use a commercial bank account. Despite mobile money and fintech solutions in Africa, Banks play a pivotal role in providing access to financial services thus a long-term contributor to financial growth. This analysis focuses on providing insight on individuals who have and are most likely to use a bank account, the differentiating factors,  and the state of financial inclusion in Kenya, Uganda, Tanzania and Rwanda.
 
 #Visuals
-
+![image](https://user-images.githubusercontent.com/56575615/70389888-7b447080-19d6-11ea-9186-811e6ce3e592.png)
 
 #Usage
 
