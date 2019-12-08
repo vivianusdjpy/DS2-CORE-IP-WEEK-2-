@@ -35,7 +35,9 @@ Vivian Wanjiru Njau.
 
 #License
 
-For open source projects, say how it is licensed.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this notebook to deal in the project without 
+restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the notebook.
 
 #Project status
 
