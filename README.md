@@ -2,13 +2,10 @@
 
 #Description
 
-Financial inclusion is a major hinderance to economic and human development in Africa. About 9.1 million(13.9%) people in Kenya, Rwanda, Tanzania and Uganda. Despite mobile money and fintech solutions in Africa, Banks play a pivotal role in providing access to financial services thus a long-term contributor to financial growth. This analysis focuses on providing insight on individuals who have and are most likely to use a bank account, the differentiating factors,  and the state of financial inclusion in Kenya, Uganda, Tanzania and Rwanda.
-
-#Badges
+Financial inclusion is a major hinderance to economic and human development in Africa. About 9.1 million(13.9%) people in Kenya, Rwanda, Tanzania and Uganda have access to or use a commercial bank account. Despite mobile money and fintech solutions in Africa, Banks play a pivotal role in providing access to financial services thus a long-term contributor to financial growth. This analysis focuses on providing insight on individuals who have and are most likely to use a bank account, the differentiating factors,  and the state of financial inclusion in Kenya, Uganda, Tanzania and Rwanda.
 
 #Visuals
 
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
 
 #Usage
 
